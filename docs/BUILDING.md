@@ -1,6 +1,7 @@
 # Mbed SDK build script environment
 ## Introduction
 Mbed test framework allows users to test their mbed devices’ applications, build mbed SDK library, re-run tests, run mbed SDK regression, add new tests and get all this results automatically. Everything is done on your machine so you have a full control over compilation, and tests you run.
+TEST
 
 It's is using Python 2.7 programming language to drive all tests so make sure Python 2.7 is installed on your system and included in your system PATH. To compile mbed SDK and tests you will need one or more supported compilers installed on your system.
 
